@@ -1,5 +1,5 @@
 //compile-time
-public class sample{
+public class compute_quotient_and_remainder{
     public static void main(String[] args){
         int dividend=25;
         int divisor=4;
@@ -11,7 +11,7 @@ public class sample{
 }
 //run-time
 /*import java.util.Scanner;
-public class sample{
+public class compute_quotient_and_remainder{
     public static void main(String[] args){
         System.out.print("Enter dividened: ");
         Scanner divid=new Scanner(System.in);
