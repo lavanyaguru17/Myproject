@@ -1,5 +1,5 @@
 //compile-time
-public class sample{
+public class swap_two_numbers{
     public static void main(String[] args){
         int firstno=2;
         int secondno=9;
@@ -15,7 +15,7 @@ public class sample{
     }
 }
 //without using third variable
-/*public class sample{
+/*public class swap_two_numbers{
     public static void main(String[] args){
         int firstno=90;
         int secondno=50;
@@ -32,7 +32,7 @@ public class sample{
 }*/
 //run-time
 /*import java.util.Scanner;
-public class sample{
+public class swap_two_numbers{
     public static void main(String[] args){
         System.out.print("Enter first number: ");
         Scanner firstno=new Scanner(System.in);
