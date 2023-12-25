@@ -1,5 +1,5 @@
 //compile-time
-public class sample{
+public class find_the_largest_among_three_number{
     public static void main(String[] args){
         double n1=-7.9,n2=9,n3=9.8;
         if(n1>=n2 && n1>=n3)
@@ -12,7 +12,7 @@ public class sample{
 }
 //run-time using nested if...else
 /*import java.util.Scanner;
-public class sample{
+public class find_the_largest_among_three_number{
     public static void main(String[] args){
         double fno,sno,tno;
         Scanner input=new Scanner(System.in);
