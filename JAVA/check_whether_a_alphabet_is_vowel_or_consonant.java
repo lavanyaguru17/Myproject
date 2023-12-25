@@ -1,5 +1,5 @@
 //compile-time
-public class sample{
+public class check_whether_a_alphabet_is_vowel_or_consonant{
     public static void main(String[] args){
         char ch='I';
         if (ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u'||ch=='A'||ch=='E'||ch=='I'||ch=='O'||ch=='U'){
@@ -12,7 +12,7 @@ public class sample{
 }
 //run-time using switch 
 /*import java.util.Scanner;
-public class sample{
+public class check_whether_a_alphabet_is_vowel_or_consonant{
     public static void main(String[] args){
         System.out.print("Enter letter: ");
         Scanner input=new Scanner(System.in);
