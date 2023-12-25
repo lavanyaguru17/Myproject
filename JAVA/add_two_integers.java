@@ -1,5 +1,5 @@
 //compile-time
-public class sample{
+public class add_two_integers{
     public static void main(String[] args){
         int first=2;
         int second=3;
@@ -9,7 +9,7 @@ public class sample{
 }
 //run-time
 /*import java.util.Scanner;
-public class sample{
+public class add_two_integers{
     public static void main(String args[]){
         System.out.println("Enter First number: ");
         Scanner f=new Scanner(System.in);
