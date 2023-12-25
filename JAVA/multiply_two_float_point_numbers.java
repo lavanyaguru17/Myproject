@@ -1,5 +1,5 @@
 //compile-time
-public class sample{
+public class multiply_two_float_point_numbers{
     public static void main(String[] args){
         float firstno=2.5f;
         float secondno=2.5f;
@@ -10,7 +10,7 @@ public class sample{
 }
 //run-time
 /*import java.util.Scanner;
-public class sample{
+public class multiply_two_float_point_numbers{
     public static void main(String[] args){
         System.out.println("Enter First number: ");
         Scanner f=new Scanner(System.in);
