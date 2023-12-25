@@ -9,7 +9,7 @@ public class display_fibonacci_series{
             secondno=nextno;
         }
     }
-}*/
+}
 //run-time
 /*import java.util.Scanner;
 public class display_fibonacci_series{
