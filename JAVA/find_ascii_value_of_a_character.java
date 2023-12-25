@@ -1,5 +1,5 @@
 //compile-time
-public class sample{
+public class find_ascii_value_of_a_character{
     public static void main(String args[]){
         char ch='a';
         int ascii=ch;
@@ -10,7 +10,7 @@ public class sample{
 }
 //run-time
 /*import java.util.Scanner;
-public class sample{
+public class find_ascii_value_of_a_character{
     public static void main(String[] args){
         System.out.print("Enter a character: ");
         Scanner input=new Scanner(System.in);
